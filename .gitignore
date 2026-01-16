@@ -1,0 +1,4 @@
+# Workspace-wide ignores
+*.log
+nucleo-regulariza-go-updated/supabase/.temp/
+package.json

@@ -1,0 +1,14 @@
+{
+    "workbench.editor.centeredLayoutFixedWidth": true,
+    "chat.useNestedAgentsMdFiles": true,
+    "chat.useAgentSkills": true,
+    "terminal.integrated.tabs.defaultIcon": "file-directory",
+    "editor.formatOnSave": true,
+    "files.autoSave": "onFocusChange",
+    "windowsaistudio.openAIInferencePort": 100,
+    "editor.accessibilityPageSize": 100,
+    "editor.aiStats.enabled": true,
+    "editor.defaultFormatter": "ms-mssql.data-workspace-vscode",
+    "editor.wordWrap": "wordWrapColumn",
+    "accessibility.signalOptions.debouncePositionChanges": true
+}
